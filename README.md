@@ -21,7 +21,7 @@ python rmsd-filter.py -r reference.mol2 -c docked_poses.mol2.gz -t 2.0 -o filter
 If you have any problems, questions or suggestions please open a GitHub Issue/Discussion.
 
 # Citing our work
-If you use these scripts in your research, please cite our work as follows: [Luttens, A., *et al* Virtual Fragment Screening for DNA repair inhibitors in Vast Chemical Space. Journal Abbrev (2024). https://doi.org/some_number](https://doi.org/some_number).
+If you use the UniverseGenerator in your research, please cite our work as follows: [Luttens, A., *et al* Virtual Fragment Screening for DNA repair inhibitors in Vast Chemical Space. Nat Commun 16, 1741 (2025). [https://doi.org/10.1038/s41467-025-56893-9](https://doi.org/10.1038/s41467-025-56893-9).
 
 
 Thanks for your interest in our work!
